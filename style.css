@@ -1,0 +1,36 @@
+
+/* .....section-one start.......................... */
+.section-one{
+     display: flex;
+     font-family: 'Ramabhadra', sans-serif;
+     
+}
+.fist-div{
+   width: 50%;
+
+   padding-left: 150px;
+}
+.fist-div img{
+     width: 75%;
+}
+.about-me{
+     font-family: 'Yeseva One', cursive;
+     font-size: 30px;
+     color: #333333;
+     margin-top: 100px;
+     padding-left: 10px;
+     border-left: 4px solid #FF9090;
+     
+}
+.about-me span{
+     color: #FFAD5A;
+}
+#button {
+     text-decoration: none;
+     padding: 12px 40px;
+     background-color: #FF5959;
+     color: whitesmoke;
+     border-radius: 5px;
+     margin: 50px 0px;
+}
+/* .............section-one end....................... */
