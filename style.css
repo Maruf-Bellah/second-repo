@@ -1,9 +1,11 @@
-
+body{
+     margin: 0;
+}
 /* .....section-one start.......................... */
 .section-one{
      display: flex;
      font-family: 'Ramabhadra', sans-serif;
-     
+     margin-bottom: 100px;
 }
 .fist-div{
    width: 50%;
@@ -19,6 +21,7 @@
      margin-top: 100px;
      padding-left: 10px;
      border-left: 4px solid #FF9090;
+    
      
 }
 .about-me span{
@@ -26,16 +29,17 @@
 }
 #button {
      text-decoration: none;
-     padding: 12px 40px;
+     padding: 9px 40px;
      background-color: #FF5959;
      color: whitesmoke;
      border-radius: 5px;
-     margin: 50px 0px;
+     
 }
 /* .............section-one end....................... */
 /* .............section-second start....................... */
 .section-two{
      font-family: 'Ramabhadra', sans-serif;
+     margin-bottom: 100px;
      
 }
 
@@ -57,19 +61,17 @@
      background-color: #FFF4D6;
      text-align: justify;
      padding: 30px;
-     margin: 20px 30px 30px 30px;
      border-radius: 10px;
+     margin: 10px;
      
 }
 .missin-div img{
      width: 100px;
      height: 100px;
-   
-     
-     
+    
 }
 #mission-one{
-
+     margin-left: 50px;
 }
 #mission-two{
      
@@ -81,3 +83,53 @@
 }
 
 /* .............section-second end....................... */
+/* .............section-three stard.............................. */
+.section-three{
+     display: flex;
+     margin-bottom: 100px;
+}
+.limit-div{
+     font-family: 'Ramabhadra', sans-serif;
+}
+.limit-div img{
+     margin-left: 60px;
+     
+}
+#limit-one{
+     width: 40%;
+     padding-bottom: 50px;
+}
+.section-three #limit-one{
+     background-image: url(img/shapes/shape-1.png);
+     background-repeat: no-repeat;
+     background-size:200px;
+     background-position: left center;
+}
+#limit-one img{
+     width: 75%;
+}
+#limit-two{
+     width: 60%;
+     padding: 20px;
+     line-height: 35px;
+     text-align: justify;
+}
+#limit-two h1{
+     font-size: 40px;
+}
+/* .............section-three end.............................. */
+/* .............section-four sard.................................... */
+.section-four{
+     display: flex;
+     margin-bottom: 100px;
+}
+.section-four #limit-two{
+     margin-left: 50px;
+}
+.section-four #limit-one{
+     background-image: url(img/shapes/shape-1.png);
+     background-repeat: no-repeat;
+     background-size:200px;
+     background-position: right top 200px;
+}
+/* .............section-four end.................................... */
