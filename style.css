@@ -209,3 +209,23 @@ input {
 
 
 /* ..............section-five end............................................. */
+/* ................secton-six stard.................................................. */
+.section-six{
+     background-color: rgb(13, 13, 36);
+     color: whitesmoke;
+     padding: 30px;
+     text-align: center;
+}
+.section-six p{
+     font-weight: 100;
+     font-family: Arial, Helvetica, sans-serif;
+}
+.section-six h1{
+     font-family: 'Dancing Script', cursive;
+     font-size: 35px;
+}
+#hard-work{
+     color: #FFAD5A;
+
+}
+/* ................secton-six end.................................................. */
