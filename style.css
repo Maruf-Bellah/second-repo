@@ -71,7 +71,7 @@ body{
     
 }
 #mission-one{
-     margin-left: 50px;
+     margin-left: 60px;
 }
 #mission-two{
      
@@ -133,3 +133,79 @@ body{
      background-position: right top 200px;
 }
 /* .............section-four end.................................... */
+/* ..............section-five stard............................................. */
+.section-five{
+     font-family: 'Ramabhadra', sans-serif;
+     margin-bottom: 100px;
+}
+.section-five h1{
+     font-size: 40px;
+     text-align: center;
+}
+.us{
+     color: #FFAD5A;
+}
+.contuct{
+     width: 100%;
+     display: flex;
+}
+h2{
+     text-align: center;
+}
+.contuct-div{
+     width: 300px;
+     height: 300px;
+     margin: 10px;
+}
+.contuct-div img{
+     width: 80%;
+}
+#contuct-one{
+     background-color: #FFF4D6;
+     padding:30px;
+     text-align: justify;
+     margin-left: 70px;
+     background-color: #EDF5F6;
+     border-radius: 20px;
+
+}
+#contuct-one img{
+     width: 30%;
+     margin-left: 100px;
+}
+
+#contuct-two{
+
+     padding: 30px;
+     background-color: #FFEEEE;
+     border-radius: 20px;
+
+
+}
+input {
+     padding: 10px;
+     border-radius: 20px;
+     border: 1px solid gray;
+
+}
+#submit{
+     width: 300px;
+     background-color:#FF5959;
+     color: whitesmoke;
+}
+
+#contuct-three{
+
+     background-color: #FFF4D6;
+     padding:30px;
+     text-align: justify;
+     background-color: #EDF5F6;
+     border-radius: 20px;
+}
+#contuct-three img{
+     width: 30%;
+     margin-left: 100px;
+}
+
+
+/* ..............section-five end............................................. */
